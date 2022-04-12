@@ -1,5 +1,5 @@
 # gcs20221
-TEST Repository of gcs discipline
+TEST Repository of gcs subject
 
 I'm having my first Github class.
 This is another line that i wrote.
